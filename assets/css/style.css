@@ -1,0 +1,21 @@
+h2.bg-primary{
+    padding-left: 2.5%;
+}
+
+table.table.table-hover{
+    border: 1px solid black;
+}
+
+form{
+    border: 1px solid black;
+}
+
+.jumbotron{
+    background-image: url("https://banner2.kisspng.com/20180209/ehe/kisspng-rapid-transit-train-cartoon-train-5a7dbc6ece1bd6.9371478815181896788442.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: blue;
+}
